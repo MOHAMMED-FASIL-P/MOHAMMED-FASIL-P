@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MOHAMMED-FASIL-P
 - 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Android Basics from Udacity
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
